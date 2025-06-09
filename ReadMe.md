@@ -75,13 +75,6 @@ The primary metrics used in this study are:
 
 ## 3 Results
 
-![Accuracy Matrix Heatmap](\Assets\output.png)
-
-![Accuracy Matrix Heatmap](\Assets\output2.png)
-
-![Accuracy Matrix Heatmap](\Assets\output3.png) 
-
-
 ### Table 1: Performance Index for Each Model
 
 | Models | Mean Accuracy (%) | Max Accuracy (%) | Models | Mean Accuracy (%) | Max Accuracy (%) |
